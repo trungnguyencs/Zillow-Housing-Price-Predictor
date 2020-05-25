@@ -1,6 +1,7 @@
 # Zillow Housing Price Predictor
 
-Mini project for Data Science graduate course at Stony Brook University, Fall 2017, where I analyzed a dataset containing information of 2.9 million properties and developed algorithms that makes predictions about the future sale prices of homes
+Mini project for Data Science graduate course at Stony Brook University, Fall 2017 
+In here, I analyzed a dataset containing information of 2.9 million properties and developed algorithms that makes predictions about the future sale prices of homes
 
 ## PART 1: Exploratory Data Analysis
 
@@ -58,7 +59,7 @@ Write a 2-3 page report about your favorite model. The report should include:
 - For a large enough sample of the evaluation data, compare how your model ranks by this metric on the real data compared to 100 (or more) random permutations of the logerror assigned to the real data records
 - What fraction of permutations produce at least error at least as good at the real data set? If necessary, sample your data so these 100+ runs do not take too much time
 
-### Task 7 (10%)
+### Task 7
 Submit your results on the real test data to Kaggle before deadline. Write the result into a csv file and submit it to the website. Actually, submit two for your two best models, to the extent that Zillow allows it
 
 
