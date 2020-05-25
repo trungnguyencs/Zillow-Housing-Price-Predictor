@@ -1,6 +1,7 @@
 # Zillow Housing Price Predictor
 
 Mini project for Data Science graduate course at Stony Brook University, Fall 2017 
+
 In here, I analyzed a dataset containing information of 2.9 million properties and developed algorithms that makes predictions about the future sale prices of homes
 
 ## PART 1: Exploratory Data Analysis
